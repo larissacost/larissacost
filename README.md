@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java development FullStack
 - 👯 I’m looking to collaborate on Java development
 - 📫 How to reach me:Discord account --> Larissa Inacio (Aqualtune)#1785
-- 😄 Pronouns: El/Dela/She
+- 😄 Pronouns: Ela/Dela/She
 - ⚡ Fun fact: Communication and persistence are my strengths😉
 
 <div align="center">
