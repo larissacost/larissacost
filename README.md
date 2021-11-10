@@ -1,8 +1,8 @@
 ### Hi there I'm Larissa Inacio Costa/Olá eu sou Larissa Inacio Costa 👋
 
-- 🔭 I’m currently working on SpringBoot
+- 🔭 I’m currently working with React development
 - 🌱 I’m currently learning Java development FullStack
-- 👯 I’m looking to collaborate on Java development
+- 👯 I’m looking to collaborate on software development
 - 📫 How to reach me:Discord account --> Larissa Inacio (Aqualtune)#1785
 - 😄 Pronouns: Ela/Dela/She
 - ⚡ Fun fact: Communication and persistence are my strengths😉
