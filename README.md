@@ -1,8 +1,8 @@
 ### Hi there I'm Larissa Inacio Costa/Olá eu sou Larissa Inacio Costa 👋
 
-- 🔭 I’m currently working with Front - end development
-- 🌱 I’m currently learning Java development FullStack
-- 👯 I’m looking to collaborate on software development
+- 🔭 I am currently working with Front - end development
+- 🌱 I am currently a Java Junior Full Stack developer
+- 👯 I am looking to collaborate on software development
 - 📫 How to reach me:Discord account --> Larissa Inacio (Aqualtune)#1785
 - 😄 Pronouns: Ela/Dela/She
 - ⚡ Fun fact: Communication and persistence are my strengths😉
